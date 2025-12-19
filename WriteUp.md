@@ -222,7 +222,7 @@ insmod reverse-shell.ko
 
 *Get that flag!*
 
-## REFERENCES 
+## REFERENCES 📚
 * [https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-capabilities.html#cap_sys_module](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/linux-capabilities.html#cap_sys_module)
 
 * [https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/](https://exploit-notes.hdks.org/exploit/container/docker/docker-escape/)
